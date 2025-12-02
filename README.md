@@ -8,7 +8,7 @@ Durante el análisis hice diferentes tipos de visualizaciones, probé varios est
 
 1. proyecto.ipynb – Notebook con el análisis completo.
 2. medallistas_panamericanos_CA.csv – Dataset usado.
-3. Imágenes de todas las gráficas.
+3. Imágenes de todas las gráficas. 
 4. README.md – Este archivo.
 
 # Análisis Completo del Dataset
